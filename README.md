@@ -1,4 +1,3 @@
-# [My Zola Blog site](ParthhivAshley.github.io)
 ## Using Zola
 
 Build the site with `zola build`
